@@ -10,3 +10,9 @@ The notebook includes:
 **Notebook:** detection-instrumentation.ipynb
 
 **Note:** The original experiment CSV files were unavailable after the Colab runtime reset. The conceptual graphs are illustrative, not actual experimental measurements.
+
+## Hugging Face Space
+
+Public Space: https://huggingface.co/spaces/dhruvipatel1999/detection-bn-trackio
+
+Note: This Space currently displays assignment information, not a functioning Trackio metrics dashboard. The original experiment logs were lost after the Colab runtime reset.
